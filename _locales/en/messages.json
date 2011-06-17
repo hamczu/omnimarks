@@ -1,0 +1,8 @@
+{
+  "extension_description": {
+    "message": "Add Bookmarks only search to Omnibox. Just type 'b' and hit TAB or spacebar."
+  },
+  "search_label": {
+    "message": "Search"
+  }
+}
